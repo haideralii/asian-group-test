@@ -1,0 +1,14 @@
+{
+    "myEmail": "testh1@test.com",
+    "password": "123",
+    "invalidEmail": "invalidemail.com",
+    "eightDigitPass": "12345678",
+    "error": {
+        "invalidEmailOrPassword": "Invalid username or password.",
+        "invalidEmail": "Invalid email address.",
+        "passwordMisMatch": "Password confirmation doesn't match.",
+        "specifyEmail": "Please specify email.",
+        "specifyPassword": "Please specify password.",
+        "emailAlreadyExist": "Email already exists."
+    }
+}
